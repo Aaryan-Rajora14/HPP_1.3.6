@@ -80,7 +80,7 @@ st.markdown("""
 
 @st.cache_resource
 def load_model():
-    with open('model\HPP_Model.pkl', 'rb') as f:
+    with open('model\\HPP_Model.pkl', 'rb') as f:
         return pickle.load(f)
 
 def predict_price(input_data, model_dict):
@@ -698,6 +698,7 @@ def main():
 if __name__ == "__main__":
 
     main()
+
 
 
 
