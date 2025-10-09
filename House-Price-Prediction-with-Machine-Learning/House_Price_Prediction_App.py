@@ -4,7 +4,6 @@ import pandas as pd
 import numpy as np
 import pickle
 from PIL import Image
-import joblib
 
 # Page configuration
 st.set_page_config(
@@ -699,4 +698,5 @@ def main():
 if __name__ == "__main__":
 
     main()
+
 
