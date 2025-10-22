@@ -1,0 +1,3 @@
+Theres are more than 500 gradients in this data file for better test model training.
+
+  Note: - The Data is only for testing testing of code and application 
