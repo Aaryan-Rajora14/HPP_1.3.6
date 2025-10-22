@@ -1,1 +1,10 @@
 Machine Learning Model Name and Version:- HPP_Model.pkl version- v1.3.6
+
+my_prediction_app/
+├── House_Price_Prediction_App.py
+├── Prediction_Model_Training.py
+├── requirements.txt
+├── models/
+|   └── HPP_Model.pkl
+└── data/
+    └── Housing.csv
