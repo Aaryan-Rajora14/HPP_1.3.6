@@ -654,7 +654,7 @@ def main():
         feature_names = model_package['feature_names']
         
         # Display success in sidebar
-        st.sidebar.success("✅ Server Is Online!")
+        st.sidebar.success("✅ Server Status: Online!")
         
     except Exception as e:
         st.error(f"❌ Error loading model: {e}")
